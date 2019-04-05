@@ -11,5 +11,8 @@
         <module name="kafkabasics" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kafka-connect" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
